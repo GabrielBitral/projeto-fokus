@@ -1,6 +1,6 @@
 # Projeto Fokus
 
-Projeto com a ideia de estudo através do método pomodoro, desenvolvido durante o curso de manipulação de DOM com javascript da Alura.
+Projeto com a ideia de estudo através do método pomodoro, desenvolvido durante o curso de manipulação de DOM com javascript da Alura. O arquivo CSS e HTML foram fornecidos pelo curso, o objetivo era trabalhar o javascript.
 
 # 📑 Conceitos aplicados(JavaScript):
 
